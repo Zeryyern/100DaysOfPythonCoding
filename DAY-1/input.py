@@ -1,0 +1,5 @@
+#DAY 1 OF LEARNING PYTHON
+#LEARNING ABOUT INPUT
+# #EXERCIE USING LEN FUNCTION   
+print(len(input("What's your name? ")))
+
